@@ -1,0 +1,37 @@
+
+body {
+    background-color: rgb(247, 255, 251);
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: rgb(0, 85, 85);
+}
+
+table, th, tr, td {
+    border: solid;
+    border-collapse: collapse;
+    margin: auto;
+    font-family: Helvetica, sans-serif;
+    line-height: 1.4;
+    background-color: white;
+}
+
+th, tr, td {
+    padding: 5px;
+}
+
+th {
+    background-color:darkcyan;
+}
+
+.Tag {
+    font-family: monospace;
+    background-color: gainsboro;
+}
